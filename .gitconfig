@@ -1,0 +1,11 @@
+[user]
+  username = Xyehtz
+  email = alejitogarbo@gmail.com
+[core]
+  editor = code --wait
+[alias]
+  cm = commit
+  sh = stash
+  a = add
+[color]
+  ui = true
