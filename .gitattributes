@@ -1,4 +1,10 @@
+# Rust attributes
+
 * text=auto
 *.rs text diff=rust
 *.toml text diff=toml
 Cargo.lock text
+
+# Markdown attributes
+
+*.md linguist-detectable

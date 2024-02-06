@@ -6,8 +6,8 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 
 ## Objectives
 
-- [ ] Install Rust
-- [ ] Hello World in Rust
+- [x] Install Rust
+- [x] Hello World in Rust
 - [ ] Cargo and Rust
 - [ ] Creating a guessing game
 - [ ] Understanding variables and mutability
