@@ -8,7 +8,7 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 
 - [x] Install Rust
 - [x] Hello World in Rust
-- [ ] Cargo and Rust
+- [x] Cargo and Rust
 - [ ] Creating a guessing game
 - [ ] Understanding variables and mutability
 - [ ] Data types in Rust
@@ -33,6 +33,6 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [ ] Advance features
 - [ ] Creating a web server
 
-*Completed: 0/35*
+*Completed: 3/35*
 
-> Last update: 05/02/2024
+> Last update: 06/02/2024
