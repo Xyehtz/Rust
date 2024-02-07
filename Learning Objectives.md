@@ -33,6 +33,6 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [ ] Advance features
 - [ ] Creating a web server
 
-*Completed: 3/35*
+*Completed: 4/35*
 
-> Last update: 06/02/2024
+> Last update: 07/02/2024
