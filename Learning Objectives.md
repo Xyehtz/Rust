@@ -9,7 +9,7 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [x] Install Rust
 - [x] Hello World in Rust
 - [x] Cargo and Rust
-- [ ] Creating a guessing game
+- [x] Creating a guessing game
 - [ ] Understanding variables and mutability
 - [ ] Data types in Rust
 - [ ] Functions
