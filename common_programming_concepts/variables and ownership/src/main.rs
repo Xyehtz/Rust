@@ -23,4 +23,25 @@ fn main() {
     }
 
     println!("The value of x is: {x}");
+
+    // ------[Lessons from Ownership are here]---------
+    
+    // There are two different types of strings in rust, the first one is the common string, which in Rust is immutable
+    let _common_string = "Hello";
+
+    // And the second one which is mutable, and in which we can add more text
+    let mut new_string = String::from("Hello"); // Here we request memory to the memory allocator
+    new_string.push_str(", world!"); // Now new_string changed from "Hello" to "Hello, world!"
+
+    // In rust we can do the following
+    let s1 = String::from("Hello");
+    let s2 = s1
+
+    // In other programming languages s1 and s2 will have the same data as they are a copy of each other, the problem comes when we look into the pointer, when s2 copies s1, the pointer will still point at the same place of s1, so when s1 or s2 drop we will have a double free error, for this reason when we copy s1 to s2, s1 is no longer valid
+
+    // What we saw above is an example of a shallow copy, to make a deep copy we can do the following
+    let s1 = String::from("Hello");
+    let s2 = s1.clone(); // This will copy ALL the data (both from the stack and the heap)
+
+    println!("{new_string}")
 }

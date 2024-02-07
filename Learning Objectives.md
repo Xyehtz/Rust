@@ -10,12 +10,12 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [x] Hello World in Rust
 - [x] Cargo and Rust
 - [x] Creating a guessing game
-- [ ] Understanding variables and mutability
-- [ ] Data types in Rust
-- [ ] Functions
-- [ ] Comments in Rust `// ?`
-- [ ] Control flow?
-- [ ] Understanding ownership
+- [x] Understanding variables and mutability
+- [x] Data types in Rust
+- [x] Functions
+- [x] Comments in Rust `// ?`
+- [x] Control flow?
+- [x] Understanding ownership
 - [ ] References and borrowing
 - [ ] Slice Type
 - [ ] Understanding structs to structure data
@@ -33,6 +33,6 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [ ] Advance features
 - [ ] Creating a web server
 
-*Completed: 4/35*
+*Completed: 9/35*
 
 > Last update: 07/02/2024
