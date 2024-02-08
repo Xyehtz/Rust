@@ -16,8 +16,8 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [x] Comments in Rust `// ?`
 - [x] Control flow?
 - [x] Understanding ownership
-- [ ] References and borrowing
-- [ ] Slice Type
+- [x] References and borrowing
+- [x] Slice Type
 - [ ] Understanding structs to structure data
 - [ ] Enums and pattern matching
 - [ ] Understanding the management of growing projects using packages, crates and modules
@@ -33,6 +33,6 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [ ] Advance features
 - [ ] Creating a web server
 
-*Completed: 9/35*
+*Completed: 11/35*
 
-> Last update: 07/02/2024
+> Last update: 08/02/2024

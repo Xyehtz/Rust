@@ -35,7 +35,7 @@ fn main() {
 
     // In rust we can do the following
     let s1 = String::from("Hello");
-    let s2 = s1
+    let s2 = s1;
 
     // In other programming languages s1 and s2 will have the same data as they are a copy of each other, the problem comes when we look into the pointer, when s2 copies s1, the pointer will still point at the same place of s1, so when s1 or s2 drop we will have a double free error, for this reason when we copy s1 to s2, s1 is no longer valid
 
