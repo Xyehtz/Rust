@@ -1,0 +1,1 @@
+// This is a library crate, all the files created on the root of the project besides main.rs (binary crate) will be treated the same way
