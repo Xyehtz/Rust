@@ -23,7 +23,7 @@ impl Rectangle { // This is an associated function
     }
 }
 
-struct User { // Create a new structure that will contain a username, an email, a sing in count and a is active boolean
+struct User { // Create a new structure that will contain a username, an email, a sing in count and an is active boolean
     username: String,
     email: String,
     sign_in_count: u64,
@@ -81,7 +81,7 @@ fn main() {
         width: 20,
         height: 20
     };
-    let last_square: Rectangle = Rectangle::square(25); // We can access associated fucntions like this
+    let last_square: Rectangle = Rectangle::square(25); // We can access associated functions like this
 
     println!("Can rect 1 hold rect 2: {}", one_more_rect.can_hold(&second_more_rect));
     println!("Can rect 2 hold rect 1: {}", second_more_rect.can_hold(&second_more_rect));
@@ -96,7 +96,7 @@ fn main() {
 //     rectangle.height * rectangle.width
 // }
 
-// Function that will return an instance of an user, the function will receive two of the arguments of the struct
+// Function that will return an instance of a user, the function will receive two of the arguments of the struct
 fn build_user(email: String, username: String) -> User {
     User {
         email,
