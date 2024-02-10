@@ -20,7 +20,7 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [x] Slice Type
 - [x] Understanding structs to structure data
 - [x] Enums and pattern matching
-- [ ] Understanding the management of growing projects using packages, crates and modules
+- [x] Understanding the management of growing projects using packages, crates and modules
 - [ ] Error handling
 - [ ] Generic types, traits and lifetimes
 - [ ] Creating tests
@@ -33,6 +33,6 @@ My learning objectives for this challenge are based on ["The Rust Programming La
 - [ ] Advance features
 - [ ] Creating a web server
 
-*Completed: 14/35*
+*Completed: 15/26*
 
 > Last update: 09/02/2024
